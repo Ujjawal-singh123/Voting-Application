@@ -1,0 +1,33 @@
+body
+{
+    
+    background-color: rgb(108, 92, 231);
+}
+#headersection
+{
+    padding: 10px;
+}
+#headersection h1
+{
+    font-family: 'Dancing Script', cursive;
+
+}
+
+input
+{
+    padding: 10;
+    border-radius: 10px;
+}
+#role
+{
+    padding: 5px;
+    border-radius: 10px;
+}
+#loginbtn
+{
+    padding: 7px;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    background-color: blue;
+    font-weight: 15px;
+}
